@@ -1,8 +1,4 @@
-<p instructions: ° inside the root of the project use: ° npm install ° npm run dev ° php artisan serve for the database run migrations </p>
 
-<p This are my env config for mysql DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=Technical_Test DB_USERNAME=root DB_PASSWORD= </p>
-
-<p In order to run the tests use: php artisan test </p>
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
@@ -13,6 +9,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+
+ instructions: ° inside the root of the project use:
+ ° npm install 
+ ° npm run dev 
+ ° php artisan serve for the database run migrations 
+
+<p This are my env config for mysql DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=Technical_Test DB_USERNAME=root DB_PASSWORD= </p>
+
+<p In order to run the tests use: php artisan test </p>
 
 ## About Laravel
 
